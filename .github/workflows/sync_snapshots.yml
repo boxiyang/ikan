@@ -1,0 +1,48 @@
+name: Sync 4K & Cloud Pan Snapshots Pipeline
+
+on:
+  schedule:
+    # 每日北京时间 04:00 执行 (UTC 20:00)
+    - cron: '0 20 * * *'
+  workflow_dispatch: # 支持在 GitHub 网页上手动一键触发
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-sync-snapshots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run Snapshot Pipeline Generator
+        run: |
+          python scripts/generate_snapshots.py --output-dir dist/snapshots --ttl 43200
+          cp dist/snapshots/*.json ./
+
+      - name: Commit & Push Updates to Main Branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add 4k_catalog.json pan_catalog.json dist/snapshots/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(auto): 自动抓取清洗并更新4K与网盘快照 [skip ci]" && git push origin main)
+
+      - name: Deploy Snapshots to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist/snapshots
+          destination_dir: snapshots
+          keep_files: true
