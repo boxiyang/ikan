@@ -1,1209 +1,119 @@
 {
   "version": "1.0",
   "category": "4k",
-  "updated_at": 1793682192.3570373,
+  "updated_at": 1793752200.9437199,
   "ttl_seconds": 43200,
-  "total_count": 1127,
+  "total_count": 1070,
   "items": [
-    {
-      "title": "沙丘2",
-      "year": "2024",
-      "type_name": "4K电影",
-      "remarks": "4K杜比视界·原盘Remux",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
     {
       "title": "奥本海默",
       "year": "2023",
       "type_name": "4K电影",
-      "remarks": "4K UHD·HDR原盘",
+      "remarks": "4K杜比视界·IMAX原盘",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 62277025792
     },
     {
       "title": "流浪地球2",
       "year": "2023",
       "type_name": "4K电影",
-      "remarks": "4K·60帧·杜比全景声",
+      "remarks": "4K HDR10+·高码臻彩",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 45097156608
     },
     {
-      "title": "阿凡达：水之道",
-      "year": "2022",
+      "title": "沙丘2",
+      "year": "2024",
       "type_name": "4K电影",
-      "remarks": "4K·48帧·高码率原盘",
+      "remarks": "4K杜比视界·蓝光原盘",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 69793218560
     },
     {
       "title": "星际穿越",
       "year": "2014",
       "type_name": "4K电影",
-      "remarks": "4K数字修复·诺兰经典",
+      "remarks": "4K IMAX原盘·杜比全景声",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 77309411328
     },
     {
-      "title": "黑客帝国：矩阵重启",
-      "year": "2021",
+      "title": "阿凡达：水之道",
+      "year": "2022",
       "type_name": "4K电影",
-      "remarks": "4K杜比视界·经典科幻",
+      "remarks": "4K高帧率HFR·杜比视界",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "蜘蛛侠：纵横宇宙",
-      "year": "2023",
-      "type_name": "4K电影",
-      "remarks": "4K原画·视觉盛宴",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "周处除三害",
-      "year": "2024",
-      "type_name": "4K电影",
-      "remarks": "4K高码率·阮经天动作巨献",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "繁花",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K·60FPS·全30集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "庆余年第二季",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K超清原画·全36集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "三体",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K臻彩原画·全30集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "漫长的季节",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K极清·全12集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "狂飙",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全39集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "我的阿勒泰",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR·全8集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "唐朝诡事录之西行",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K超清·全40集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "边水往事",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全21集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "葬送的芙莉莲",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K超清·全28集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "封神第一部：朝歌风云",
-      "year": "2023",
-      "type_name": "4K电影",
-      "remarks": "4K杜比视界·原盘Remux",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "热辣滚烫",
-      "year": "2024",
-      "type_name": "4K电影",
-      "remarks": "4K超清原画·高码率",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "飞驰人生2",
-      "year": "2024",
-      "type_name": "4K电影",
-      "remarks": "4K·60FPS·赛车燃片",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "芭比",
-      "year": "2023",
-      "type_name": "4K电影",
-      "remarks": "4K UHD·臻彩原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "银翼杀手2049",
-      "year": "2017",
-      "type_name": "4K电影",
-      "remarks": "4K HDR·视效天花板",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 91268055040
     },
     {
       "title": "盗梦空间",
       "year": "2010",
       "type_name": "4K电影",
-      "remarks": "4K修复原盘·诺兰神作",
+      "remarks": "4K蓝光原盘·DTS-HD",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 59055800320
     },
     {
-      "title": "头号玩家",
-      "year": "2018",
+      "title": "黑客帝国：矩阵重启",
+      "year": "2021",
       "type_name": "4K电影",
-      "remarks": "4K超清·高燃元宇宙",
+      "remarks": "4K杜比视界·原盘",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 51539607552
     },
     {
       "title": "蝙蝠侠：黑暗骑士",
       "year": "2008",
       "type_name": "4K电影",
-      "remarks": "4K IMAX实拍修复",
+      "remarks": "4K蓝光REMUX·IMAX",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "寄生虫",
-      "year": "2019",
-      "type_name": "4K电影",
-      "remarks": "4K UHD双原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "疯狂的麦克斯4：狂暴之路",
-      "year": "2015",
-      "type_name": "4K电影",
-      "remarks": "4K HDR·重金属狂暴美学",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 64424509440
     },
     {
       "title": "泰坦尼克号",
       "year": "1997",
       "type_name": "4K电影",
-      "remarks": "4K 3D重置杜比视界",
+      "remarks": "4K 25周年4K重制版",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "雪迷宫",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K超清·硬核刑侦全32集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "白夜破晓",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全29集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "凡人修仙传",
-      "year": "2020",
-      "type_name": "4K剧集",
-      "remarks": "4K 60帧·国漫天花板",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "鬼灭之刃：无限列车篇",
-      "year": "2020",
-      "type_name": "4K电影",
-      "remarks": "4K原盘·顶级光效特效",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "权力的游戏第八季",
-      "year": "2019",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR杜比视界·最终季",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "切尔诺贝利",
-      "year": "2019",
-      "type_name": "4K剧集",
-      "remarks": "4K UHD原盘·HBO神作全5集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "地球脉动第三季",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K 120FPS HDR·BBC纪录巨制",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "莲花楼",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K超清原画·江湖探案全40集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "黑客帝国",
-      "year": "1999",
-      "type_name": "4K电影",
-      "remarks": "4K蓝光原盘重置",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 73014444032
     },
     {
       "title": "指环王1：护戒使者",
       "year": "2001",
       "type_name": "4K电影",
-      "remarks": "4K HDR加长版",
+      "remarks": "4K加长版杜比视界原盘",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 83751862272
     },
     {
       "title": "指环王2：双塔奇兵",
       "year": "2002",
       "type_name": "4K电影",
-      "remarks": "4K杜比视界",
+      "remarks": "4K加长版杜比视界原盘",
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "指环王3：王者归来",
-      "year": "2003",
-      "type_name": "4K电影",
-      "remarks": "4K加长版原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "复仇者联盟4：终局之战",
-      "year": "2019",
-      "type_name": "4K电影",
-      "remarks": "4K IMAX增强版",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "银河护卫队3",
-      "year": "2023",
-      "type_name": "4K电影",
-      "remarks": "4K IMAX高码率",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "沙丘",
-      "year": "2021",
-      "type_name": "4K电影",
-      "remarks": "4K杜比全景声",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "角斗士",
-      "year": "2000",
-      "type_name": "4K电影",
-      "remarks": "4K修复典藏原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "终结者2：审判日",
-      "year": "1991",
-      "type_name": "4K电影",
-      "remarks": "4K 3D修复版",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "攻壳机动队",
-      "year": "1995",
-      "type_name": "4K电影",
-      "remarks": "4K剧场版重置",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "星际迷航：无限未知",
-      "year": "2016",
-      "type_name": "4K电影",
-      "remarks": "4K UHD原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "速度与激情5",
-      "year": "2011",
-      "type_name": "4K电影",
-      "remarks": "4K高码率超清",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "让子弹飞",
-      "year": "2010",
-      "type_name": "4K电影",
-      "remarks": "4K修复姜文经典",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "无间道",
-      "year": "2002",
-      "type_name": "4K电影",
-      "remarks": "4K二十周年三部曲",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "霸王别姬",
-      "year": "1993",
-      "type_name": "4K电影",
-      "remarks": "4K戛纳金棕榈修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "卧虎藏龙",
-      "year": "2000",
-      "type_name": "4K电影",
-      "remarks": "4K李安奥斯卡巨作",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "大话西游之月光宝盒",
-      "year": "1995",
-      "type_name": "4K电影",
-      "remarks": "4K数码修复周星驰",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "功夫",
-      "year": "2004",
-      "type_name": "4K电影",
-      "remarks": "4K原画·周星驰经典",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "我不是药神",
-      "year": "2018",
-      "type_name": "4K电影",
-      "remarks": "4K高码率·徐峥代表作",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "隐秘的角落",
-      "year": "2020",
-      "type_name": "4K剧集",
-      "remarks": "4K超清·全12集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "沉默的真相",
-      "year": "2020",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全12集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "去有风的地方",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K风景·全40集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "大佛普拉斯",
-      "year": "2017",
-      "type_name": "4K电影",
-      "remarks": "4K黑白数字原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "少年的你",
-      "year": "2019",
-      "type_name": "4K电影",
-      "remarks": "4K超清原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "千与千寻",
-      "year": "2001",
-      "type_name": "4K电影",
-      "remarks": "4K吉卜力高清修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "幽灵公主",
-      "year": "1997",
-      "type_name": "4K电影",
-      "remarks": "4K宫崎骏巅峰原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "哈尔的移动城堡",
-      "year": "2004",
-      "type_name": "4K电影",
-      "remarks": "4K数码修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "铃芽之旅",
-      "year": "2022",
-      "type_name": "4K电影",
-      "remarks": "4K新海诚动画巨制",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "你的名字。",
-      "year": "2016",
-      "type_name": "4K电影",
-      "remarks": "4K HDR超清",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "深海",
-      "year": "2023",
-      "type_name": "4K电影",
-      "remarks": "4K水墨视效天花板",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "新世纪福音战士新剧场版：终",
-      "year": "2021",
-      "type_name": "4K电影",
-      "remarks": "4K原画完结篇",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "进击的巨人最终季",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K超清完结篇",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "咒术回战怀玉·玉折",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K热血原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "蜘蛛侠：平行宇宙",
-      "year": "2018",
-      "type_name": "4K电影",
-      "remarks": "4K奥斯卡最佳动画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "疯狂动物城",
-      "year": "2016",
-      "type_name": "4K电影",
-      "remarks": "4K超清原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "寻梦环游记",
-      "year": "2017",
-      "type_name": "4K电影",
-      "remarks": "4K绚烂光影原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "肖申克的救赎",
-      "year": "1994",
-      "type_name": "4K电影",
-      "remarks": "4K二十五周年修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "教父",
-      "year": "1972",
-      "type_name": "4K电影",
-      "remarks": "4K五十周年修复原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "教父2",
-      "year": "1974",
-      "type_name": "4K电影",
-      "remarks": "4K经典史诗原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "低俗小说",
-      "year": "1994",
-      "type_name": "4K电影",
-      "remarks": "4K昆汀典藏修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "搏击俱乐部",
-      "year": "1999",
-      "type_name": "4K电影",
-      "remarks": "4K大卫芬奇原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "七宗罪",
-      "year": "1995",
-      "type_name": "4K电影",
-      "remarks": "4K原画修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "控方证人",
-      "year": "1957",
-      "type_name": "4K电影",
-      "remarks": "4K黑白悬疑神作",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "十二怒汉",
-      "year": "1957",
-      "type_name": "4K电影",
-      "remarks": "4K影史经典原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "绿里奇迹",
-      "year": "1999",
-      "type_name": "4K电影",
-      "remarks": "4K治愈经典",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "楚门的世界",
-      "year": "1998",
-      "type_name": "4K电影",
-      "remarks": "4K二十五周年原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "海上钢琴师",
-      "year": "1998",
-      "type_name": "4K电影",
-      "remarks": "4K数码修复经典",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "美丽人生",
-      "year": "1997",
-      "type_name": "4K电影",
-      "remarks": "4K奥斯卡经典修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "后天",
-      "year": "2004",
-      "type_name": "4K电影",
-      "remarks": "4K灾难巨制修复",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "2012",
-      "year": "2009",
-      "type_name": "4K电影",
-      "remarks": "4K毁灭性视效原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "星际探索",
-      "year": "2019",
-      "type_name": "4K电影",
-      "remarks": "4K HDR深空原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "环太平洋",
-      "year": "2013",
-      "type_name": "4K电影",
-      "remarks": "4K机甲重金属原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "金刚：骷髅岛",
-      "year": "2017",
-      "type_name": "4K电影",
-      "remarks": "4K巨兽原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "哥斯拉大战金刚",
-      "year": "2021",
-      "type_name": "4K电影",
-      "remarks": "4K顶级视效",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "地心引力",
-      "year": "2013",
-      "type_name": "4K电影",
-      "remarks": "4K太空沉浸式视效",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "火星救援",
-      "year": "2015",
-      "type_name": "4K电影",
-      "remarks": "4K HDR硬核科幻",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "少年派的奇幻漂流",
-      "year": "2012",
-      "type_name": "4K电影",
-      "remarks": "4K李安美学原画",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "极速车王",
-      "year": "2019",
-      "type_name": "4K电影",
-      "remarks": "4K引擎轰鸣原盘",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "星际特工：千星之城",
-      "year": "2017",
-      "type_name": "4K电影",
-      "remarks": "4K绚丽科幻视效",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "变形金刚",
-      "year": "2007",
-      "type_name": "4K电影",
-      "remarks": "4K原盘重制",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "蓝色星球第二季",
-      "year": "2017",
-      "type_name": "4K剧集",
-      "remarks": "4K 60FPS BBC神作全7集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "绿色星球",
-      "year": "2022",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR BBC植物全5集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "冰冻星球第二季",
-      "year": "2022",
-      "type_name": "4K剧集",
-      "remarks": "4K原盘BBC自然全6集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "宇宙的时空之旅",
-      "year": "2014",
-      "type_name": "4K剧集",
-      "remarks": "4K高码率探索全13集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "文明",
-      "year": "2018",
-      "type_name": "4K剧集",
-      "remarks": "4K BBC人文全9集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "王朝",
-      "year": "2018",
-      "type_name": "4K剧集",
-      "remarks": "4K史诗纪录全5集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "七个世界一个星球",
-      "year": "2019",
-      "type_name": "4K剧集",
-      "remarks": "4K大卫爱登堡经典全7集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "行星",
-      "year": "2019",
-      "type_name": "4K剧集",
-      "remarks": "4K宇宙奇观全5集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "小小世界",
-      "year": "2020",
-      "type_name": "4K剧集",
-      "remarks": "4K微观大自然全12集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "猎捕",
-      "year": "2015",
-      "type_name": "4K剧集",
-      "remarks": "4K顶级生态捕食全7集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "迁徙的鸟",
-      "year": "2001",
-      "type_name": "4K电影",
-      "remarks": "4K数码修复雅克贝汉",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "人类星球",
-      "year": "2011",
-      "type_name": "4K剧集",
-      "remarks": "4K BBC传奇纪录全8集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "绝命毒师全五季",
-      "year": "2008",
-      "type_name": "4K剧集",
-      "remarks": "4K重置版·影史第一神剧",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "风骚律师全六季",
-      "year": "2015",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR·全剧完结",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "火线全五季",
-      "year": "2002",
-      "type_name": "4K剧集",
-      "remarks": "4K重制高清版",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "真探第一季",
-      "year": "2014",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR·悬疑天花板全8集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "黑道家族",
-      "year": "1999",
-      "type_name": "4K剧集",
-      "remarks": "4K二十周年典藏版",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "西部世界第一季",
-      "year": "2016",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全10集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "怪奇物语第四季",
-      "year": "2022",
-      "type_name": "4K剧集",
-      "remarks": "4K杜比视界·全9集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "旺达幻视",
-      "year": "2021",
-      "type_name": "4K剧集",
-      "remarks": "4K IMAX增强版全9集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "最后生还者第一季",
-      "year": "2023",
-      "type_name": "4K剧集",
-      "remarks": "4K HDR末世巨作全9集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "曼达洛人第一季",
-      "year": "2019",
-      "type_name": "4K剧集",
-      "remarks": "4K星战原画全8集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "英雄联盟：双城之战",
-      "year": "2021",
-      "type_name": "4K剧集",
-      "remarks": "4K顶级动画全9集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
-    },
-    {
-      "title": "黑袍纠察队第四季",
-      "year": "2024",
-      "type_name": "4K剧集",
-      "remarks": "4K原画·全8集",
-      "has_4k": true,
-      "is_pan": false,
-      "source_count": 3,
-      "size_bytes": 26843545600
+      "size_bytes": 88046829568
     },
     {
       "title": "指环王3：王者无敌",
@@ -1213,8 +123,47 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 94489280512,
-      "direct_play_url": "https://mock-4k.ikan.internal/指环王3：王者无敌.m3u8"
+      "size_bytes": 94489280512
+    },
+    {
+      "title": "蜘蛛侠：纵横宇宙",
+      "year": "2023",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10·绚丽原画",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 37580963840
+    },
+    {
+      "title": "头号玩家",
+      "year": "2018",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·全景声",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848
+    },
+    {
+      "title": "复仇者联盟4：终局之战",
+      "year": "2019",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光原盘·IMAX版",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 69793218560
+    },
+    {
+      "title": "星际探索",
+      "year": "2019",
+      "type_name": "4K电影",
+      "remarks": "4K HDR原盘·极致深空",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 49392123904
     },
     {
       "title": "疯狂的麦克斯：狂暴之路",
@@ -1224,8 +173,67 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 53687091200,
-      "direct_play_url": "https://mock-4k.ikan.internal/疯狂的麦克斯：狂暴之路.m3u8"
+      "size_bytes": 53687091200
+    },
+    {
+      "title": "角斗士",
+      "year": "2000",
+      "type_name": "4K电影",
+      "remarks": "4K 20周年重制版",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 57982058496
+    },
+    {
+      "title": "银翼杀手2049",
+      "year": "2017",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·顶级视听",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 66571993088
+    },
+    {
+      "title": "教父",
+      "year": "1972",
+      "type_name": "4K电影",
+      "remarks": "4K 50周年杜比视界修复版",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 68719476736
+    },
+    {
+      "title": "肖申克的救赎",
+      "year": "1994",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光原盘·经典永恒",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 48318382080
+    },
+    {
+      "title": "霸王别姬",
+      "year": "1993",
+      "type_name": "4K电影",
+      "remarks": "4K 30周年4K数码修复版",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552
+    },
+    {
+      "title": "千与千寻",
+      "year": "2001",
+      "type_name": "4K电影",
+      "remarks": "4K吉卜力高清重制",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 34359738368
     },
     {
       "title": "拯救大兵瑞恩",
@@ -1235,8 +243,27 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 70866960384,
-      "direct_play_url": "https://mock-4k.ikan.internal/拯救大兵瑞恩.m3u8"
+      "size_bytes": 70866960384
+    },
+    {
+      "title": "寄生虫",
+      "year": "2019",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光黑白+彩色原盘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 42949672960
+    },
+    {
+      "title": "繁花",
+      "year": "2023",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比视界·沪语原声全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 118111600640
     },
     {
       "title": "庆余年 第二季",
@@ -1246,8 +273,17 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 102005473280,
-      "direct_play_url": "https://mock-4k.ikan.internal/庆余年 第二季.m3u8"
+      "size_bytes": 102005473280
+    },
+    {
+      "title": "三体",
+      "year": "2023",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比全景声·原声臻彩全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 94489280512
     },
     {
       "title": "权力的游戏 第一至八季",
@@ -1257,8 +293,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 483183820800,
-      "direct_play_url": "https://mock-4k.ikan.internal/权力的游戏 第一至八季.m3u8"
+      "size_bytes": 483183820800
     },
     {
       "title": "绝命毒师 全五季",
@@ -1268,8 +303,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 300647710720,
-      "direct_play_url": "https://mock-4k.ikan.internal/绝命毒师 全五季.m3u8"
+      "size_bytes": 300647710720
     },
     {
       "title": "风骚律师 全六季",
@@ -1279,8 +313,27 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 257698037760,
-      "direct_play_url": "https://mock-4k.ikan.internal/风骚律师 全六季.m3u8"
+      "size_bytes": 257698037760
+    },
+    {
+      "title": "漫长的季节",
+      "year": "2023",
+      "type_name": "4K剧集",
+      "remarks": "4K高码率·电影级质感全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 60129542144
+    },
+    {
+      "title": "狂飙",
+      "year": "2023",
+      "type_name": "4K剧集",
+      "remarks": "4K纯净画质·热播收藏全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 96636764160
     },
     {
       "title": "怪奇物语 第四季",
@@ -1290,8 +343,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 128849018880,
-      "direct_play_url": "https://mock-4k.ikan.internal/怪奇物语 第四季.m3u8"
+      "size_bytes": 128849018880
     },
     {
       "title": "黑镜 第六季",
@@ -1301,8 +353,17 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 48318382080,
-      "direct_play_url": "https://mock-4k.ikan.internal/黑镜 第六季.m3u8"
+      "size_bytes": 48318382080
+    },
+    {
+      "title": "切尔诺贝利",
+      "year": "2019",
+      "type_name": "4K剧集",
+      "remarks": "4K蓝光原盘·史诗神作全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848
     },
     {
       "title": "最后生还者 第一季",
@@ -1312,8 +373,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 83751862272,
-      "direct_play_url": "https://mock-4k.ikan.internal/最后生还者 第一季.m3u8"
+      "size_bytes": 83751862272
     },
     {
       "title": "曼达洛人 第三季",
@@ -1323,8 +383,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 68719476736,
-      "direct_play_url": "https://mock-4k.ikan.internal/曼达洛人 第三季.m3u8"
+      "size_bytes": 68719476736
     },
     {
       "title": "洛基 第二季",
@@ -1334,8 +393,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 53687091200,
-      "direct_play_url": "https://mock-4k.ikan.internal/洛基 第二季.m3u8"
+      "size_bytes": 53687091200
     },
     {
       "title": "黄石 第五季",
@@ -1345,8 +403,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 88046829568,
-      "direct_play_url": "https://mock-4k.ikan.internal/黄石 第五季.m3u8"
+      "size_bytes": 88046829568
     },
     {
       "title": "西部世界 第一季",
@@ -1356,8 +413,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 80530636800,
-      "direct_play_url": "https://mock-4k.ikan.internal/西部世界 第一季.m3u8"
+      "size_bytes": 80530636800
     },
     {
       "title": "大明王朝1566",
@@ -1367,8 +423,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 112742891520,
-      "direct_play_url": "https://mock-4k.ikan.internal/大明王朝1566.m3u8"
+      "size_bytes": 112742891520
     },
     {
       "title": "琅琊榜",
@@ -1378,8 +433,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 123480309760,
-      "direct_play_url": "https://mock-4k.ikan.internal/琅琊榜.m3u8"
+      "size_bytes": 123480309760
     },
     {
       "title": "武林外传",
@@ -1389,8 +443,7 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 85899345920,
-      "direct_play_url": "https://mock-4k.ikan.internal/武林外传.m3u8"
+      "size_bytes": 85899345920
     },
     {
       "title": "爱，死亡和机器人 第三季",
@@ -1400,8 +453,18 @@
       "has_4k": true,
       "is_pan": false,
       "source_count": 3,
-      "size_bytes": 37580963840,
-      "direct_play_url": "https://mock-4k.ikan.internal/爱，死亡和机器人 第三季.m3u8"
+      "size_bytes": 37580963840
+    },
+    {
+      "title": "凡人修仙传",
+      "year": "2023",
+      "type_name": "4K动漫",
+      "remarks": "4K 60FPS·国漫巅峰年番",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 128849018880,
+      "direct_play_url": "https://mock-4k.ikan.internal/凡人修仙传.m3u8"
     },
     {
       "title": "吞噬星空",
@@ -1558,6 +621,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/新世纪福音战士：终.m3u8"
     },
     {
+      "title": "你的名字。",
+      "year": "2016",
+      "type_name": "4K动漫",
+      "remarks": "4K 4K-HDR·新海诚纯美画质",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 38654705664,
+      "direct_play_url": "https://mock-4k.ikan.internal/你的名字。.m3u8"
+    },
+    {
       "title": "天气之子",
       "year": "2019",
       "type_name": "4K动漫",
@@ -1567,6 +641,39 @@
       "source_count": 3,
       "size_bytes": 40802189312,
       "direct_play_url": "https://mock-4k.ikan.internal/天气之子.m3u8"
+    },
+    {
+      "title": "铃芽之旅",
+      "year": "2023",
+      "type_name": "4K动漫",
+      "remarks": "4K杜比视界·公路奇幻",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 42949672960,
+      "direct_play_url": "https://mock-4k.ikan.internal/铃芽之旅.m3u8"
+    },
+    {
+      "title": "蜘蛛侠：平行宇宙",
+      "year": "2018",
+      "type_name": "4K动漫",
+      "remarks": "4K蓝光原盘·革新动画风格",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 48318382080,
+      "direct_play_url": "https://mock-4k.ikan.internal/蜘蛛侠：平行宇宙.m3u8"
+    },
+    {
+      "title": "攻壳机动队",
+      "year": "1995",
+      "type_name": "4K动漫",
+      "remarks": "4K 4K重制版·赛博朋克鼻祖",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 37580963840,
+      "direct_play_url": "https://mock-4k.ikan.internal/攻壳机动队.m3u8"
     },
     {
       "title": "地球脉动 第三季",
@@ -1622,6 +729,28 @@
       "source_count": 3,
       "size_bytes": 59055800320,
       "direct_play_url": "https://mock-4k.ikan.internal/七个世界，一个星球.m3u8"
+    },
+    {
+      "title": "绿色星球",
+      "year": "2022",
+      "type_name": "4K纪录片",
+      "remarks": "4K HDR·微观植物世界",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/绿色星球.m3u8"
+    },
+    {
+      "title": "行星",
+      "year": "2019",
+      "type_name": "4K纪录片",
+      "remarks": "4K BBC科幻级太阳系探秘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552,
+      "direct_play_url": "https://mock-4k.ikan.internal/行星.m3u8"
     },
     {
       "title": "宇宙",
@@ -1756,6 +885,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/信条 4K黑金典藏版.m3u8"
     },
     {
+      "title": "星际特工：千星之城",
+      "year": "2023",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10+·蓝光REMUX",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/星际特工：千星之城.m3u8"
+    },
+    {
       "title": "星际特工：千星之城 加长重制版",
       "year": "2023",
       "type_name": "4K电影",
@@ -1831,6 +971,17 @@
       "source_count": 3,
       "size_bytes": 69793218560,
       "direct_play_url": "https://mock-4k.ikan.internal/流浪地球 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "火星救援",
+      "year": "2021",
+      "type_name": "4K电影",
+      "remarks": "4K IMAX原盘·杜比全景声",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 66571993088,
+      "direct_play_url": "https://mock-4k.ikan.internal/火星救援.m3u8"
     },
     {
       "title": "火星救援 加长重制版",
@@ -1996,6 +1147,17 @@
       "source_count": 3,
       "size_bytes": 73014444032,
       "direct_play_url": "https://mock-4k.ikan.internal/阿丽塔：战斗天使 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "银河护卫队3",
+      "year": "2017",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10+·蓝光REMUX",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/银河护卫队3.m3u8"
     },
     {
       "title": "银河护卫队3 加长重制版",
@@ -2515,6 +1677,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/哥斯拉大战金刚2 4K黑金典藏版.m3u8"
     },
     {
+      "title": "沙丘",
+      "year": "2005",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10+·蓝光REMUX",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/沙丘.m3u8"
+    },
+    {
       "title": "沙丘 加长重制版",
       "year": "2005",
       "type_name": "4K电影",
@@ -2988,6 +2161,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/禁闭岛 4K黑金典藏版.m3u8"
     },
     {
+      "title": "七宗罪",
+      "year": "2014",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·臻彩原画",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552,
+      "direct_play_url": "https://mock-4k.ikan.internal/七宗罪.m3u8"
+    },
+    {
       "title": "七宗罪 加长重制版",
       "year": "2014",
       "type_name": "4K电影",
@@ -3019,6 +2203,17 @@
       "source_count": 3,
       "size_bytes": 73014444032,
       "direct_play_url": "https://mock-4k.ikan.internal/七宗罪 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "搏击俱乐部",
+      "year": "2013",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10+·蓝光REMUX",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/搏击俱乐部.m3u8"
     },
     {
       "title": "搏击俱乐部 加长重制版",
@@ -3142,6 +2337,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/利刃出鞘 4K黑金典藏版.m3u8"
     },
     {
+      "title": "大佛普拉斯",
+      "year": "2010",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光原盘·DTS-HD",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 59055800320,
+      "direct_play_url": "https://mock-4k.ikan.internal/大佛普拉斯.m3u8"
+    },
+    {
       "title": "大佛普拉斯 加长重制版",
       "year": "2010",
       "type_name": "4K电影",
@@ -3217,6 +2423,17 @@
       "source_count": 3,
       "size_bytes": 62277025792,
       "direct_play_url": "https://mock-4k.ikan.internal/阳光普照 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "让子弹飞",
+      "year": "2008",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·臻彩原画",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552,
+      "direct_play_url": "https://mock-4k.ikan.internal/让子弹飞.m3u8"
     },
     {
       "title": "让子弹飞 加长重制版",
@@ -3734,6 +2951,17 @@
       "source_count": 3,
       "size_bytes": 62277025792,
       "direct_play_url": "https://mock-4k.ikan.internal/黄飞鸿之二：男儿当自强 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "卧虎藏龙",
+      "year": "2016",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·臻彩原画",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552,
+      "direct_play_url": "https://mock-4k.ikan.internal/卧虎藏龙.m3u8"
     },
     {
       "title": "卧虎藏龙 加长重制版",
@@ -4341,6 +3569,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/新龙门客栈 4K黑金典藏版.m3u8"
     },
     {
+      "title": "大话西游之月光宝盒",
+      "year": "2022",
+      "type_name": "4K电影",
+      "remarks": "4K 60FPS·超高清原盘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 48318382080,
+      "direct_play_url": "https://mock-4k.ikan.internal/大话西游之月光宝盒.m3u8"
+    },
+    {
       "title": "大话西游之月光宝盒 加长重制版",
       "year": "2022",
       "type_name": "4K电影",
@@ -4416,6 +3655,17 @@
       "source_count": 3,
       "size_bytes": 88046829568,
       "direct_play_url": "https://mock-4k.ikan.internal/大话西游之大圣娶亲 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "功夫",
+      "year": "2020",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光原盘·DTS-HD",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 59055800320,
+      "direct_play_url": "https://mock-4k.ikan.internal/功夫.m3u8"
     },
     {
       "title": "功夫 加长重制版",
@@ -5021,6 +4271,17 @@
       "source_count": 3,
       "size_bytes": 62277025792,
       "direct_play_url": "https://mock-4k.ikan.internal/推手 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "少年派的奇幻漂流",
+      "year": "2006",
+      "type_name": "4K电影",
+      "remarks": "4K杜比视界·臻彩原画",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 51539607552,
+      "direct_play_url": "https://mock-4k.ikan.internal/少年派的奇幻漂流.m3u8"
     },
     {
       "title": "少年派的奇幻漂流 加长重制版",
@@ -5672,6 +4933,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/潘神的迷宫 4K黑金典藏版.m3u8"
     },
     {
+      "title": "环太平洋",
+      "year": "2011",
+      "type_name": "4K电影",
+      "remarks": "4K IMAX原盘·杜比全景声",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 66571993088,
+      "direct_play_url": "https://mock-4k.ikan.internal/环太平洋.m3u8"
+    },
+    {
       "title": "环太平洋 加长重制版",
       "year": "2011",
       "type_name": "4K电影",
@@ -5881,6 +5153,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/侏罗纪世界 4K黑金典藏版.m3u8"
     },
     {
+      "title": "终结者2：审判日",
+      "year": "2006",
+      "type_name": "4K电影",
+      "remarks": "4K 60FPS·超高清原盘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 48318382080,
+      "direct_play_url": "https://mock-4k.ikan.internal/终结者2：审判日.m3u8"
+    },
+    {
       "title": "终结者2：审判日 加长重制版",
       "year": "2006",
       "type_name": "4K电影",
@@ -6002,6 +5285,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/狂暴巨兽 4K黑金典藏版.m3u8"
     },
     {
+      "title": "金刚：骷髅岛",
+      "year": "2023",
+      "type_name": "4K电影",
+      "remarks": "4K超清·纯净高码率",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 40802189312,
+      "direct_play_url": "https://mock-4k.ikan.internal/金刚：骷髅岛.m3u8"
+    },
+    {
       "title": "金刚：骷髅岛 加长重制版",
       "year": "2023",
       "type_name": "4K电影",
@@ -6077,6 +5371,17 @@
       "source_count": 3,
       "size_bytes": 73014444032,
       "direct_play_url": "https://mock-4k.ikan.internal/大黄蜂 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "变形金刚",
+      "year": "2021",
+      "type_name": "4K电影",
+      "remarks": "4K HDR10+·蓝光REMUX",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 55834574848,
+      "direct_play_url": "https://mock-4k.ikan.internal/变形金刚.m3u8"
     },
     {
       "title": "变形金刚 加长重制版",
@@ -6728,6 +6033,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/头脑特工队2 4K黑金典藏版.m3u8"
     },
     {
+      "title": "疯狂动物城",
+      "year": "2006",
+      "type_name": "4K电影",
+      "remarks": "4K蓝光原盘·DTS-HD",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 59055800320,
+      "direct_play_url": "https://mock-4k.ikan.internal/疯狂动物城.m3u8"
+    },
+    {
       "title": "疯狂动物城 加长重制版",
       "year": "2006",
       "type_name": "4K电影",
@@ -6759,6 +6075,17 @@
       "source_count": 3,
       "size_bytes": 80530636800,
       "direct_play_url": "https://mock-4k.ikan.internal/疯狂动物城 4K黑金典藏版.m3u8"
+    },
+    {
+      "title": "寻梦环游记",
+      "year": "2005",
+      "type_name": "4K电影",
+      "remarks": "4K超清·纯净高码率",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 40802189312,
+      "direct_play_url": "https://mock-4k.ikan.internal/寻梦环游记.m3u8"
     },
     {
       "title": "寻梦环游记 加长重制版",
@@ -7828,6 +7155,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/忍者神龟：变种大乱斗 4K黑金典藏版.m3u8"
     },
     {
+      "title": "我的阿勒泰",
+      "year": "2024",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比视界·全集原盘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 102005473280,
+      "direct_play_url": "https://mock-4k.ikan.internal/我的阿勒泰.m3u8"
+    },
+    {
       "title": "我的阿勒泰 终极原声版",
       "year": "2024",
       "type_name": "4K剧集",
@@ -7881,6 +7219,17 @@
       "source_count": 3,
       "size_bytes": 126701535232,
       "direct_play_url": "https://mock-4k.ikan.internal/新生 4K典藏全季.m3u8"
+    },
+    {
+      "title": "唐朝诡事录之西行",
+      "year": "2022",
+      "type_name": "4K剧集",
+      "remarks": "4K高码率·收藏版全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 109521666048,
+      "direct_play_url": "https://mock-4k.ikan.internal/唐朝诡事录之西行.m3u8"
     },
     {
       "title": "唐朝诡事录之西行 终极原声版",
@@ -7971,6 +7320,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/追风者 4K典藏全季.m3u8"
     },
     {
+      "title": "边水往事",
+      "year": "2019",
+      "type_name": "4K剧集",
+      "remarks": "4K HDR·超清全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 94489280512,
+      "direct_play_url": "https://mock-4k.ikan.internal/边水往事.m3u8"
+    },
+    {
       "title": "边水往事 终极原声版",
       "year": "2019",
       "type_name": "4K剧集",
@@ -7991,6 +7351,17 @@
       "source_count": 3,
       "size_bytes": 126701535232,
       "direct_play_url": "https://mock-4k.ikan.internal/边水往事 4K典藏全季.m3u8"
+    },
+    {
+      "title": "雪迷宫",
+      "year": "2018",
+      "type_name": "4K剧集",
+      "remarks": "4K高码率·收藏版全集",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 109521666048,
+      "direct_play_url": "https://mock-4k.ikan.internal/雪迷宫.m3u8"
     },
     {
       "title": "雪迷宫 终极原声版",
@@ -8147,6 +7518,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/觉醒年代 4K典藏全季.m3u8"
     },
     {
+      "title": "隐秘的角落",
+      "year": "2013",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比视界·臻彩全季",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 128849018880,
+      "direct_play_url": "https://mock-4k.ikan.internal/隐秘的角落.m3u8"
+    },
+    {
       "title": "隐秘的角落 终极原声版",
       "year": "2013",
       "type_name": "4K剧集",
@@ -8167,6 +7549,17 @@
       "source_count": 3,
       "size_bytes": 161061273600,
       "direct_play_url": "https://mock-4k.ikan.internal/隐秘的角落 4K典藏全季.m3u8"
+    },
+    {
+      "title": "沉默的真相",
+      "year": "2024",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比视界·全集原盘",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 102005473280,
+      "direct_play_url": "https://mock-4k.ikan.internal/沉默的真相.m3u8"
     },
     {
       "title": "沉默的真相 终极原声版",
@@ -8255,6 +7648,17 @@
       "source_count": 3,
       "size_bytes": 141733920768,
       "direct_play_url": "https://mock-4k.ikan.internal/白夜追凶 4K典藏全季.m3u8"
+    },
+    {
+      "title": "白夜破晓",
+      "year": "2021",
+      "type_name": "4K剧集",
+      "remarks": "4K杜比视界·臻彩全季",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 128849018880,
+      "direct_play_url": "https://mock-4k.ikan.internal/白夜破晓.m3u8"
     },
     {
       "title": "白夜破晓 终极原声版",
@@ -11535,6 +10939,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/奇迹之岛 4K典藏全集.m3u8"
     },
     {
+      "title": "小小世界",
+      "year": "2023",
+      "type_name": "4K纪录片",
+      "remarks": "4K HDR·国家地理高清",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 53687091200,
+      "direct_play_url": "https://mock-4k.ikan.internal/小小世界.m3u8"
+    },
+    {
       "title": "小小世界 4K典藏全集",
       "year": "2023",
       "type_name": "4K纪录片",
@@ -11610,6 +11025,17 @@
       "source_count": 3,
       "size_bytes": 75161927680,
       "direct_play_url": "https://mock-4k.ikan.internal/大猫 4K典藏全集.m3u8"
+    },
+    {
+      "title": "王朝",
+      "year": "2019",
+      "type_name": "4K纪录片",
+      "remarks": "4K杜比视界·震撼全景声",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 69793218560,
+      "direct_play_url": "https://mock-4k.ikan.internal/王朝.m3u8"
     },
     {
       "title": "王朝 4K典藏全集",
@@ -11755,6 +11181,17 @@
       "direct_play_url": "https://mock-4k.ikan.internal/生命 4K典藏全集.m3u8"
     },
     {
+      "title": "猎捕",
+      "year": "2020",
+      "type_name": "4K纪录片",
+      "remarks": "4K BBC原盘·自然史诗",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 62277025792,
+      "direct_play_url": "https://mock-4k.ikan.internal/猎捕.m3u8"
+    },
+    {
       "title": "猎捕 4K典藏全集",
       "year": "2020",
       "type_name": "4K纪录片",
@@ -11808,6 +11245,17 @@
       "source_count": 3,
       "size_bytes": 91268055040,
       "direct_play_url": "https://mock-4k.ikan.internal/微观世界 4K典藏全集.m3u8"
+    },
+    {
+      "title": "迁徙的鸟",
+      "year": "2017",
+      "type_name": "4K纪录片",
+      "remarks": "4K BBC原盘·自然史诗",
+      "has_4k": true,
+      "is_pan": false,
+      "source_count": 3,
+      "size_bytes": 62277025792,
+      "direct_play_url": "https://mock-4k.ikan.internal/迁徙的鸟.m3u8"
     },
     {
       "title": "迁徙的鸟 4K典藏全集",
